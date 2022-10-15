@@ -1,0 +1,71 @@
+.promo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 30px;
+    grid-gap: 10px;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    grid-gap: 10px;
+    color: black;
+}
+h3 {
+    text-align: center;
+    font-size: 60rem;
+}
+.card-img-top {
+    width: 60rem;
+    height: 20rem;
+}
+h5 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+.destaque{
+    text-align: center;
+}
+
+.btnn {
+    border-radius: 8px;
+    color: black;
+    font-size: 1rem;
+    padding: 5px 5px;
+    background-color: #FAB23D;
+}
+.label {
+    font-size: 1rem;
+
+}
+.input {
+    width: 20rem;
+}
+/*rodape*/
+
+footer{
+    color: white;
+
+    display: grid;
+
+    grid-template-columns: auto auto;
+
+    background-color: black;
+
+    text-align: center;
+}
+
+footer h6{
+
+    font-size: 1.2rem;
+
+}
+
+/*rodape*/

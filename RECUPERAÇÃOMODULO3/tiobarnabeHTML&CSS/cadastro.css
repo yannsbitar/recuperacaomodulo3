@@ -1,0 +1,33 @@
+section{
+    padding: 10rem;
+}
+
+.btnn {
+    border-radius: 8px;
+    color: black;
+    font-size: 1rem;
+    padding: 5px 5px;
+    background-color: #FAB23D;
+}
+
+/*rodape*/
+
+footer{
+    color: white;
+
+    display: grid;
+
+    grid-template-columns: auto auto;
+
+    background-color: black;
+
+    text-align: center;
+}
+
+footer h6{
+
+    font-size: 1.2rem;
+
+}
+
+/*rodape*/
